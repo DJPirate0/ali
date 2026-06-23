@@ -5,7 +5,7 @@ export const BIO_DATA = {
   title: "Multi-Disciplinary Creator",
   subtitle: "Video Editor • Digital Marketer • Graphic Designer",
   about: "I bridge the gap between aesthetics and performance. For the past 5 years, I have worked with creators, SaaS founders, and e-commerce brands to edit scroll-stopping videos, craft bespoke visual identities, and run high-ROI digital marketing campaigns. I don't just create assets; I build engines that drive views, engagement, and revenue.",
-  avatarUrl: "/public/assets/avatar.jpg", // Professional, modern creator portrait
+  avatarUrl: "/assets/avatar.jpg", // Professional, modern creator portrait
   skills: [
     { category: "Video Editing", items: ["Adobe Premiere Pro", "After Effects", "DaVinci Resolve", "Sound Design", "Color Grading", "Kinetic Typography"] },
     { category: "Graphic Design", items: ["Figma", "Adobe Illustrator", "Photoshop", "Brand Identity", "UI/UX Mockups", "Thumbnail Design"] },
