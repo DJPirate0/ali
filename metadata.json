@@ -1,0 +1,6 @@
+{
+  "name": "Kalakar Freelance Studio",
+  "description": "A luxury boutique creative studio platform built for freelancers, featuring a bespoke digital showcase and an interactive multi-category budget quote calculator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
